@@ -1,0 +1,15 @@
+# Generated ASCII output
+ascii_output.html
+*.html
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
