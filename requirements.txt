@@ -1,0 +1,5 @@
+Pillow>=10.0
+# Optional tools:
+# withoutbg
+# opencv-python
+# pygame
